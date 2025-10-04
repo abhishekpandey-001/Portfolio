@@ -11,7 +11,7 @@ export const projectsData = [
         image: work1,
         title: 'Portfolio',
         category: 'web',
-        link: 'https://weather-app-three-tau-94.vercel.app/',
+        link: 'https://abhishek-pandey-portfolio-five.vercel.app/'
     },
 
     {
