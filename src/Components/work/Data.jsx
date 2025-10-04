@@ -9,36 +9,41 @@ export const projectsData = [
     {
         id: 1,
         image: work1,
-        title: 'Web Design',
+        title: 'Portfolio',
         category: 'web',
+        link: 'https://weather-app-three-tau-94.vercel.app/',
     },
 
     {
         id: 2,
         image: work2,
-        title: 'App movil',
-        category: 'app'
+        title: 'Weather App',
+        category: 'app',
+        link: 'https://weather-app-three-tau-94.vercel.app/'
     },
 
     {
         id: 3,
         image: work3,
         title: 'Brand Design',
-        category: 'design'
+        category: 'design',
+        link: 'https://weather-app-three-tau-94.vercel.app/'
     },
 
     {
         id: 4,
         image: work4,
         title: 'App movi',
-        category: 'app'
+        category: 'app',
+        link: 'https://weather-app-three-tau-94.vercel.app/'
     },
 
     {
         id: 5,
         image: work5,
         title: 'Web Design',
-        category: 'web'
+        category: 'web',
+        link: 'https://weather-app-three-tau-94.vercel.app/'
     },
 ];
 
